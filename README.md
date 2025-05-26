@@ -8,8 +8,6 @@
 
 The Agent Interviews MCP server provides a standardized way for AI assistants to access your interview data, reports, and transcripts using the [Model Context Protocol (MCP)](https://modelcontextprotocol.io). This integration allows Claude, Cursor, and other MCP-compatible AI assistants to seamlessly interact with your Agent Interviews account.
 
-![Agent Interviews MCP Demo](https://docs.agentinterviews.com/video/mcp_server.mp4)
-
 ## Features
 
 - ✅ **Secure API Access**: Connect to your Agent Interviews account using your API key
