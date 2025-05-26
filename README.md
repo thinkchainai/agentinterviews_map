@@ -1,8 +1,25 @@
 # Agent Interviews MCP
 
+<p align="center">
+  <a href="https://agentinterviews.com">
+    <img src="https://docs.agentinterviews.com/img/agent-interviews-logo-zip-file/svg/logo-no-background.svg" alt="Agent Interviews Logo" width="400">
+  </a>
+</p>
+
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue.svg)](https://modelcontextprotocol.io)
 
 > Access your Agent Interviews data directly from Claude and Cursor using Model Context Protocol (MCP)
+
+## What is Agent Interviews?
+
+Agent Interviews is a cutting-edge AI interview-as-a-service platform that helps companies streamline their technical assessment process. Our platform allows you to:
+
+- Create AI interviewers tailored to specific roles and skills
+- Conduct consistent, bias-reduced technical interviews at scale
+- Collect structured data on candidate performance
+- Save engineering time while maintaining high hiring standards
+
+With Agent Interviews, you can deploy customizable AI interviewers that evaluate candidates through natural conversation, provide detailed reports, and integrate with your existing hiring workflow.
 
 ## Overview
 
